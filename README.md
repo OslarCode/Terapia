@@ -88,3 +88,4 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.m
 
 ---
 ⭐️ Si este proyecto te ha sido útil, considera darle una estrella en GitHub
+![Terapia](https://github.com/OslarCode/Terapia/blob/main/img/screencapture.png)
